@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/modeSelectionFragment">
+
+    <fragment
+        android:id="@+id/modeSelectionFragment"
+        android:name="com.example.sv_cam.fragments.ModeSelectionFragment"
+        android:label="fragment_mode_selection"
+        tools:layout="@layout/fragment_mode_selection" >
+        <action
+            android:id="@+id/action_modeSelectionFragment_to_streamingFragment"
+            app:destination="@id/streamingFragment" />
+        <action
+            android:id="@+id/action_modeSelectionFragment_to_viewStreamingFragment"
+            app:destination="@id/viewStreamingFragment" />
+        <action
+            android:id="@+id/action_modeSelectionFragment_to_logInFragment"
+            app:destination="@id/logInFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/logInFragment"
+        android:name="com.example.sv_cam.fragments.SignInFragment"
+        android:label="fragment_log_in"
+        tools:layout="@layout/fragment_log_in" >
+        <action
+            android:id="@+id/action_logInFragment_to_modeSelectionFragment"
+            app:destination="@id/modeSelectionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/streamingFragment"
+        android:name="com.example.sv_cam.fragments.StreamingFragment"
+        android:label="fragment_streaming"
+        tools:layout="@layout/fragment_streaming" >
+        <action
+            android:id="@+id/action_streamingFragment_to_modeSelectionFragment"
+            app:destination="@id/modeSelectionFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewStreamingFragment"
+        android:name="com.example.sv_cam.fragments.ViewStreamingFragment"
+        android:label="fragment_view_streaming"
+        tools:layout="@layout/fragment_view_streaming" >
+        <action
+            android:id="@+id/action_viewStreamingFragment_to_modeSelectionFragment"
+            app:destination="@id/modeSelectionFragment" />
+    </fragment>
+</navigation>

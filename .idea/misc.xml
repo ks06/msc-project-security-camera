@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/drawable/button_pressed.xml" value="0.28177083333333336" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/activity_main.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/activity_main_nav.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/activity_simple_nav.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/activity_streaming.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/app_bar_simple_nav.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/content_simple_nav.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/fields_generic.xml" value="0.10416666666666667" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/fragment_capture_test.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/fragment_planet.xml" value="0.10416666666666667" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/fragment_stream_configuration.xml" value="0.25" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/fragment_streaming.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/menu_item_regular.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/nav_header_simple_nav.xml" value="0.10416666666666667" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/simple_spinner.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/spinner_item_camera_list.xml" value="0.10416666666666667" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/user_attribute_widget.xml" value="0.335" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/layout/widget_camera_selector.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/menu/activity_main_drawer.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/menu/activity_simple_nav_drawer.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/menu/activity_user_drawer.xml" value="0.265625" />
+        <entry key="AmazonKinesisVideoDemoApp/src/main/res/menu/simple_nav.xml" value="0.265625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_log_in.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_mode_selection.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_streaming.xml" value="0.1716485507246377" />
+        <entry key="app/src/main/res/layout/fragment_view_streaming.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

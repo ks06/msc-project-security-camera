@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SV-Cam</string>
+    <string name="viewer_button">Viewer</string>
+    <string name="camera_button">Camera</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
